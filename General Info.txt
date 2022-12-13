@@ -1,1 +1,5 @@
-Testing Balls
+General Information:
+-The Ui is not finnished
+-Settings are not finnished
+-Store system is not finished
+-Commands are not finnished
